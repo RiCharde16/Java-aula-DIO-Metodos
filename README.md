@@ -1,3 +1,6 @@
 # Exercício Aula 1: Criação
 
-Olá! Neste exercício estão codificados os exemplos da Aula 1 do curso de Métodos. Além disso também possui algumas explicações a mais.
+Resolução dos 3 exercicios proposto na aula de Java - Metodos
+ - Calculadora com Soma, subtração, multiplicação e divisão;
+ - Um metodo para mandar uma mensagem comforme o horario;
+ - Um metodo para calculo de um Emprestimo;
